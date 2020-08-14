@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Fixing our rendering loop code
+- 🔭 I’m currently working with ... an intern to finish up a project
 - 🌱 I’m currently learning ... Qt Scene Graph
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
