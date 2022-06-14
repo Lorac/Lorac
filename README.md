@@ -5,8 +5,8 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working with ... Robots!
-- 🌱 I’m currently learning ... Robotics
+- 🔭 I’m currently working with ... Ultrasounds!
+- 🌱 I’m currently learning ... Metaprogramming
 - 👯 I’m looking to collaborate on ... Qt projects.
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
